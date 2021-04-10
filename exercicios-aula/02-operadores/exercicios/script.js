@@ -25,7 +25,12 @@
 
   Obs: Utilizar o Number() para converter o tipo da variável em número.
 */ 
+let num1 = ;
+let num2 = ;
 
+let soma = num1 + num2;
+
+console.log(soma);
 
 
 /* 
@@ -37,6 +42,16 @@
 
   Obs: Utilizar o Number() para converter o tipo para numero dos dados.
 */
+
+let valorJantar = 100;
+let taxaGarcom = 0.10;
+
+let valorGarcom = valorJantar * taxaGarcom;
+let valorTotal = valorGarcom + valorJantar;
+
+console.log(valorJantar);
+console.log(valorGarcom)
+console.log(valorTotal);
 
 
 
